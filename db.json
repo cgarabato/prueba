@@ -10,7 +10,7 @@
             "id": 1,
             "name": "Bu#1",
             "description": "Bulbasaur",
-            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"
+            "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"  
         }
     ]
 }
